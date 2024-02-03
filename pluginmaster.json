@@ -8,11 +8,11 @@
         "RepoUrl": "https://github.com/Zilluiro/FFXIV_Plogons",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
-        "DownloadLinkInstall": "https://github.com/Zilluiro/FFXIV_Plogons/raw/main/Plogons/SkipCutscene/Binaries/latest.zip",
+        "DownloadLinkInstall": "https://github.com/Zilluiro/FFXIV_Plogons/raw/master/Plogons/SkipCutscene/Binaries/latest.zip",
         "IsHide": false,
         "IsTestingExclusive": false,
-        "DownloadLinkTesting": "https://github.com/Zilluiro/FFXIV_Plogons/raw/main/Plogons/SkipCutscene/Binaries/latest.zip",
-        "DownloadLinkUpdate": "https://github.com/Zilluiro/FFXIV_Plogons/raw/main/Plogons/SkipCutscene/Binaries/latest.zip",
+        "DownloadLinkTesting": "https://github.com/Zilluiro/FFXIV_Plogons/raw/master/Plogons/SkipCutscene/Binaries/latest.zip",
+        "DownloadLinkUpdate": "hhttps://github.com/Zilluiro/FFXIV_Plogons/raw/master/Plogons/SkipCutscene/Binaries/latest.zip",
         "LastUpdate": "1706980937"
     }
 ]
