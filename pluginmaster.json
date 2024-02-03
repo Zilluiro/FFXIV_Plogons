@@ -5,6 +5,7 @@
         "Punchline": "SkipCutscene",
         "Description": "SkipCutscene",
         "InternalName": "SkipCutscene",
+        "AssemblyVersion": "1.0.0",
         "RepoUrl": "https://github.com/Zilluiro/FFXIV_Plogons",
         "ApplicableVersion": "any",
         "DalamudApiLevel": 9,
@@ -13,6 +14,7 @@
         "IsTestingExclusive": false,
         "DownloadLinkTesting": "https://github.com/Zilluiro/FFXIV_Plogons/raw/master/Plogons/SkipCutscene/Binaries/latest.zip",
         "DownloadLinkUpdate": "hhttps://github.com/Zilluiro/FFXIV_Plogons/raw/master/Plogons/SkipCutscene/Binaries/latest.zip",
+        "DownloadCount": 0,
         "LastUpdate": "1706980937"
     }
 ]
