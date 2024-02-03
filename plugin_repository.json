@@ -1,0 +1,18 @@
+[
+    {
+        "Author": "SkipCutscener_RV",
+        "Name": "SkipCutscene",
+        "Punchline": "SkipCutscene",
+        "Description": "SkipCutscene",
+        "InternalName": "SkipCutscene",
+        "RepoUrl": "https://github.com/Zilluiro/FFXIV_Plogons",
+        "ApplicableVersion": "any",
+        "DalamudApiLevel": 9,
+        "DownloadLinkInstall": "https://github.com/Zilluiro/FFXIV_Plogons/raw/main/Plogons/SkipCutscene/Bin/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Zilluiro/FFXIV_Plogons/raw/main/Plogons/SkipCutscene/Bin/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Zilluiro/FFXIV_Plogons/raw/main/Plogons/SkipCutscene/Bin/latest.zip",
+        "LastUpdate": "1706980937"
+    }
+]

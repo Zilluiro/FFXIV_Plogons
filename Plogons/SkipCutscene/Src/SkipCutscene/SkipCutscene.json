@@ -1,0 +1,10 @@
+{
+    "Author": "SkipCutscener_RV",
+    "Name": "SkipCutscene",
+    "Punchline": "SkipCutscene",
+    "Description": "/scrv",
+    "ApplicableVersion": "any",
+    "Tags": [
+        "plugin"
+    ]
+}
