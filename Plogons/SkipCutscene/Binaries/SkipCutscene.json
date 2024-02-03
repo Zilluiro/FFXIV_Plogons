@@ -1,0 +1,18 @@
+{
+  "Author": "SkipCutscener_RV",
+  "Name": "SkipCutscene",
+  "InternalName": "SkipCutscene",
+  "AssemblyVersion": "1.0.0.0",
+  "Description": "/scrv",
+  "ApplicableVersion": "any",
+  "Tags": [
+    "plugin"
+  ],
+  "DalamudApiLevel": 9,
+  "LoadRequiredState": 0,
+  "LoadSync": false,
+  "CanUnloadAsync": false,
+  "LoadPriority": 0,
+  "Punchline": "SkipCutscene.",
+  "AcceptsFeedback": true
+}
